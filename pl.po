@@ -2487,6 +2487,12 @@ msgstr "Skonfiguruj czas przeskoku dla przycisków \"7\"/\"9\"."
 msgid "Configure the skip time interval for the 1 and 3 buttons."
 msgstr "Skonfiguruj czas przeskoku dla przycisków 1 i 3."
 
+msgid "Configure the skip time interval for the 4 and 6 buttons."
+msgstr "Skonfiguruj czas przeskoku dla przycisków 4 i 6."
+
+msgid "Configure the skip time interval for the 7 and 9 buttons."
+msgstr "Skonfiguruj czas przeskoku dla przycisków 7 i 9."
+
 msgid "Configure the slow motion speeds."
 msgstr "Skonfiguruj prędkości odtwarzania w zwolnionym tempie."
 
@@ -3026,8 +3032,8 @@ msgid ""
 "Descramble & record ECM' gives the option to descramble afterwards if descrambling on recording failed. 'Don't descramble, record ECM' save a scramble "
 "recording that can be descrambled on playback. 'Normal' means descramble the recording and don't record ECM."
 msgstr ""
-"Odszyfrować i zapisać ECM daje późniejszą możliwość zdekodowania nagrania jeśli dekodowanie podczas nagrywanie nie powiodło się. \"Nie dekoduj, nagraj ECM\" "
-"zapisz zakodowane nagranie, które można zdekodować podczas odtwarzania. \"Normalny\" oznacza dekoduj nagranie i nie nagrywaj ECM."
+"\"dekoduj i nagrywaj ECM\": późniejsze odkodowanie, jeśli nie powiodło się. \"nie dekoduj, nagrywaj ECM\": "
+"zapisz zakodowane nagranie, które można odkodować podczas odtwarzania. \"normalny\": dekodowanie nagrania i brak nagrywania ECM."
 
 msgid "Descramble http streams"
 msgstr "Dekoduj strumień http"
@@ -8554,7 +8560,7 @@ msgid "Set the delay time between repeated loops, this uses a software render in
 msgstr "Ustaw czas opóźnienia pomiędzy pętlami, wykorzystuje to oprogramowanie dostarczone przez niektóre skórki."
 
 msgid "Set the jump-size of the seekbar."
-msgstr "Ustawić skok-rozmiar paska przeszukiwania."
+msgstr "Ustaw rozmiar skoku paska przeszukiwania."
 
 msgid "Set the name the recording will get."
 msgstr "Ustaw nazwę nagrania."
