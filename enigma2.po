@@ -2484,6 +2484,9 @@ msgstr "Skonfiguruj czas przeskoku dla przycisków \"4\"/\"6\"."
 msgid "Configure the skip time interval for the '7'/'9' buttons."
 msgstr "Skonfiguruj czas przeskoku dla przycisków \"7\"/\"9\"."
 
+msgid "Configure the skip time interval for the 1 and 3 buttons."
+msgstr "Skonfiguruj czas przeskoku dla przycisków 1 i 3."
+
 msgid "Configure the slow motion speeds."
 msgstr "Skonfiguruj prędkości odtwarzania w zwolnionym tempie."
 
