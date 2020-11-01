@@ -2945,7 +2945,7 @@ msgid "Default Folder"
 msgstr "Domyślny folder"
 
 msgid "Default PIN for CI"
-msgstr "Domyslny PIN dla modułu CI"
+msgstr "Domyślny PIN dla modułu CI"
 
 msgid "Default folder"
 msgstr "Domyślny folder"
