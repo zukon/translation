@@ -2460,7 +2460,7 @@ msgstr "Skonfiguruj liczbę dni przez jaką są trzymane wykonane timery zanim z
 msgid "Configure the number of rows shown."
 msgstr "Skonfiguruj liczbę pokazywanych wierszy."
 
-msgid "Configure the offline decoding delay in milliseconds). The configured delay is observed at each control word parity change."
+msgid "Configure the offline decoding delay (in milliseconds). The configured delay is observed at each control word parity change."
 msgstr "Skonfiguruj opóźnienie dekodowania offline (w milisekundach). Skonfigurowane opóźnienie jest obserwowane przy każdej zmianie parzystości słowa sterującego."
 
 msgid "Configure the possible fast forward speeds."
