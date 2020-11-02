@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2-HYPERION\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-10-25 18:16+0100\n"
+"PO-Revision-Date: 2020-11-02 19:53+0100\n"
 "Last-Translator: ami68 <http://pkteam.pl>\n"
 "Language-Team: PKTeam\n"
 "Language: pl\n"
@@ -2420,10 +2420,13 @@ msgid "Configure the infobar fading speed"
 msgstr "Skonfiguruj szybkość zanikania paska informacyjnego."
 
 msgid "Configure the initial fast forward speed. When you press the fast forward button, winding will start at this speed."
-msgstr "Skonfiguruj początkową prędkość szybkiego przewijania do przodu. Po naciśnięciu przycisku [>>] rozpocznie się przewijanie z tą prędkością."
+msgstr "Skonfiguruj początkową prędkość szybkiego przewijania do przodu. Po naciśnięciu przycisku [>>] przewijanie rozpocznie się z tą prędkością."
+
+msgid "Configure the initial rewind speed. When you press the rewind button, rewinding will start at this speed."
+msgstr "Skonfiguruj początkową prędkość przewijania. Po naciśnięciu przycisku [<<] przewijanie rozpocznie się z tą prędkością."
 
 msgid "Configure the initial rewind speed. When you press the rewind button, winding will start at this speed."
-msgstr "Skonfiguruj początkową prędkość przewijania wstecz. Po naciśnięciu przycisku [<<] przewijanie rozpocznie się z tą prędkością."
+msgstr "Skonfiguruj początkową prędkość przewijania. Po naciśnięciu przycisku [<<] przewijanie rozpocznie się z tą prędkością."
 
 msgid "Configure the latitude of your location."
 msgstr "Skonfiguruj szerokość geograficzną dla swojej lokalizacji."
@@ -2456,6 +2459,9 @@ msgstr "Skonfiguruj liczbę dni przez jaką są trzymane wykonane timery zanim z
 
 msgid "Configure the number of rows shown."
 msgstr "Skonfiguruj liczbę pokazywanych wierszy."
+
+msgid "Configure the offline decoding delay in milliseconds). The configured delay is observed at each control word parity change."
+msgstr "Skonfiguruj opóźnienie dekodowania offline (w milisekundach). Skonfigurowane opóźnienie jest obserwowane przy każdej zmianie parzystości słowa sterującego."
 
 msgid "Configure the possible fast forward speeds."
 msgstr "Skonfiguruj dostępne prędkości przewijania do przodu."
@@ -3032,8 +3038,8 @@ msgid ""
 "Descramble & record ECM' gives the option to descramble afterwards if descrambling on recording failed. 'Don't descramble, record ECM' save a scramble "
 "recording that can be descrambled on playback. 'Normal' means descramble the recording and don't record ECM."
 msgstr ""
-"\"dekoduj i nagrywaj ECM\": późniejsze odkodowanie, jeśli nie powiodło się. \"nie dekoduj, nagrywaj ECM\": "
-"zapisz zakodowane nagranie, które można odkodować podczas odtwarzania. \"normalny\": dekodowanie nagrania i brak nagrywania ECM."
+"\"dekoduj i nagrywaj ECM\": późniejsze odkodowanie, jeśli nie powiodło się. \"nie dekoduj, nagrywaj ECM\": zapisz zakodowane nagranie, które można odkodować "
+"podczas odtwarzania. \"normalny\": dekodowanie nagrania i brak nagrywania ECM."
 
 msgid "Descramble http streams"
 msgstr "Dekoduj strumień http"
@@ -5169,7 +5175,7 @@ msgid "It is running scripts from /usr/script"
 msgstr "Uruchamianie skryptów z katalogu /usr/script"
 
 msgid "It seems that your Internet connection is not ok, please check it"
-msgstr "Wygląda na to, że twoje połączenie z internetem nie jest w porządku, sprawdź to"
+msgstr "Wygląda na to, że twoje połączenie z internetem nie działa, sprawdź to"
 
 msgid "Italian"
 msgstr "Włoski"
