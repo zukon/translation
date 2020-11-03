@@ -4808,8 +4808,11 @@ msgstr ""
 "Jeśli ustawione na \"tak\", można przeglądać kanały na liście kanałów. Naciśnij \"OK\", aby wyświetlić podgląd wybranego kanału, naciśnij drugi raz \"OK\", "
 "aby wyjść i włączyć wybrany kanał, naciskając \"EXIT\" powrócisz do poprzedniego kanału."
 
+msgid "If set to 'yes', allows you to use the seekbar to jump to a point within the event."
+msgstr "Jeśli ustawione na \"tak\", umożliwia użycie paska przeszukiwania, aby przejść do punktu w wydarzeniu."
+
 msgid "If set to 'yes', allows you use the seekbar to jump to a point within the event."
-msgstr "Jeśli ustawione na \"tak\", pozwala użyć paska przeszukiwania, aby przejść do punktu w wydarzeniu."
+msgstr "Jeśli ustawione na \"tak\", umożliwia użycie paska przeszukiwania, aby przejść do punktu w wydarzeniu."
 
 msgid "If set to 'yes', the infobar will be displayed when Fast Forwarding or Rewinding during media playback."
 msgstr ""
@@ -8094,10 +8097,10 @@ msgid "Saving EPG Cache..."
 msgstr "Zapisywanie pamięci podręcznej EPG..."
 
 msgid "Saving Timeshift files"
-msgstr "Zapisywanie plików timeshifta"
+msgstr "Zapisywanie plików timeshiftu"
 
 msgid "Saving timeshift as movie now. This might take a while!"
-msgstr "Zapisywanie teraz timeshifta jako film. To może chwilę potrwać!"
+msgstr "Zapisywanie teraz timeshiftu jako film. To może chwilę potrwać!"
 
 msgid "Scaler sharpness"
 msgstr "Skalowania ostrości"
@@ -8296,6 +8299,9 @@ msgstr "Wybierz foldery"
 
 msgid "Select how to activate the Quick EPG mode:"
 msgstr "Wybierz sposób aktywacji szybkiego EPG:"
+
+msgid "Select if timeshift should continue when set to record."
+msgstr "Wybierz czy timeshift ma być kontynuowany po ustawieniu nagrywania."
 
 msgid "Select input device"
 msgstr "Wybierz urządzenie wejściowe"
@@ -8557,7 +8563,7 @@ msgid "Set the default location for your timers. Press 'OK' to add new locations
 msgstr "Ustaw domyślną lokalizację dla swoich timerów. Naciśnij \"OK\", aby dodać nowe lokalizacje, wybierz lewo/prawo, aby wybrać istniejącą lokalizację."
 
 msgid "Set the default location for your timeshift-files. Press 'OK' to add new locations, select left/right to select an existing location."
-msgstr "Ustaw domyślną lokalizację dla nagrań-timeshifta. Naciśnij \"OK\", aby dodać nowe lokalizacje, wybierz lewo/prawo, aby wybrać istniejącą lokalizację."
+msgstr "Ustaw domyślną lokalizację dla nagrań-timeshiftu. Naciśnij \"OK\", aby dodać nowe lokalizacje, wybierz lewo/prawo, aby wybrać istniejącą lokalizację."
 
 msgid "Set the default sorting method."
 msgstr "Ustaw domyślną metodę sortowania."
@@ -9769,6 +9775,9 @@ msgstr "Usuń kanał startowy"
 
 msgid "Stopped"
 msgstr "Zatrzymany"
+
+msgid "Stops timeshift being used if a recording is in progress. (Advisable for USB sticks)"
+msgstr "Zatrzymuje używanie timeshiftu, jeśli trwa nagrywanie. (Zalecane w przypadku pamięci USB)"
 
 msgid "Storage devices"
 msgstr "HDD i USB"
@@ -11948,6 +11957,9 @@ msgstr "Po włączeniu dekoder automatycznie użyje napisów, które wybrałeś 
 
 msgid "When enabled, the receiver will select an AC3 track (when available)."
 msgstr "Po włączeniu dekoder wybierze ścieżkę AC3 (jeśli jest dostępna)."
+
+msgid "When enabled, timeshift starts automatically in background after the specified time."
+msgstr "Po włączeniu timeshift uruchamia się automatycznie w tle po określonym czasie."
 
 msgid "When enabled, use DHCP for the IP configuration."
 msgstr "Po włączeniu używa DHCP do konfiguracji IP."
