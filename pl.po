@@ -4239,7 +4239,7 @@ msgid "Fixed"
 msgstr "Stała"
 
 msgid "Flashing"
-msgstr "Flashowanie"
+msgstr "Miganie"
 
 msgid "Following tasks will be done after you press OK!"
 msgstr "Następujące zadania będą wykonywane po naciśnięciu przycisku OK!"
@@ -6350,7 +6350,7 @@ msgid "Norwegian"
 msgstr "Norweski"
 
 msgid "Not Flashing"
-msgstr "Nie flashować"
+msgstr "Brak migania"
 
 msgid "Not Shown"
 msgstr "Nie pokazywać"
