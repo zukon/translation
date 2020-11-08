@@ -7295,6 +7295,9 @@ msgstr "Naciśnij OK na pilocie, aby kontynuować."
 msgid "Press OK to activate the selected skin."
 msgstr "Naciśnij OK, aby aktywować wybraną skórkę."
 
+msgid "Press OK to activate the selected%s skin."
+msgstr "Naciśnij OK, aby aktywować %s."
+
 msgid "Press OK to activate the settings."
 msgstr "Naciśnij OK, aby aktywować ustawienia."
 
@@ -7303,6 +7306,9 @@ msgstr "Naciśnij OK, aby edytować ustawienia."
 
 msgid "Press OK to get further details for %s"
 msgstr "Naciśnij OK, aby uzyskać więcej info o %s"
+
+msgid "Press OK to keep the currently selected%s skin."
+msgstr "Naciśnij OK, aby zachować %s."
 
 msgid "Press OK to scan"
 msgstr "Naciśnij OK, aby skanować"
