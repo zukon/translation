@@ -3528,6 +3528,9 @@ msgstr "ECM czasy"
 msgid "ECM avg"
 msgstr "ECM średnie"
 
+msgid "ECM data will be included in the stream. This enables a client receiver to decode it."
+msgstr "Dane ECM zostaną uwzględnione w strumieniu. Dzięki temu odbiornik klienta może go zdekodować."
+
 msgid "ECM last"
 msgstr "Ostatnie ECM"
 
@@ -6503,6 +6506,9 @@ msgstr "Na końcu filmu (jako menu)"
 
 msgid "On reaching the end of a file during playback, you can choose the box's behavior."
 msgstr "Po osiągnięciu końca odtwarzania pliku możesz wybrać co dekoder ma robić dalej."
+
+msgid "On valid ONIDs, ignore frequency sub network part"
+msgstr "W przypadku prawidłowych ONID ignoruj ​​częstotliwości podsieci."
 
 msgid "Once per day"
 msgstr "Raz dziennie"
@@ -11887,6 +11893,9 @@ msgstr "Po włączeniu nagrywanie może przerywać program telewizyjny, gdy nie 
 msgid "When enabled, a warning will be displayed and the user will get an option to stop or to continue the timeshift."
 msgstr "Po włączeniu zostanie wyświetlone ostrzeżenie a użytkownik otrzyma możliwość zatrzymania lub kontynuowania timeshiftu."
 
+msgid "When enabled, always descramble receiving http streams. This takes up more resources (descrambling demuxers), only enable if necessary. Individual streams are always descrambled if 0x100 is added to the service type, regardless of this setting. Default off."
+msgstr "Po włączeniu zawsze dekoduj odbieranie strumieni http. Zajmuje to więcej zasobów (deszyfrowanie demuxerów), włącz tylko w razie potrzeby. Jeśli do tego typu usługi zostanie dodane 0x100, to poszczególne strumienie są zawsze deszyfrowane, niezależnie od tego ustawienia. Domyślnie wyłączone."
+
 msgid "When enabled, authentication is required to watch http streams."
 msgstr "Po włączeniu uwierzytelnianie jest wymagane do oglądania strumieni http."
 
@@ -11916,6 +11925,9 @@ msgstr "Po włączeniu graficzne napisy DVB będą wyświetlane w ich oryginalny
 
 msgid "When enabled, graphical DVB subtitles will be displayed in yellow, instead of the original color."
 msgstr "Po włączeniu graficzne napisy DVB będą wyświetlane na żółto zamiast oryginalnego koloru."
+
+msgid "When enabled, http streams are descrambled on the server side. The (remote) client receiver does not have to do descrambling. Default on."
+msgstr "Po włączeniu strumienie http są deszyfrowane po stronie serwera. Odbiornik (zdalny) klienta nie musi wykonywać deszyfrowania. Domyślnie włączone."
 
 msgid "When enabled, it is possible to leave the Movie Player with exit."
 msgstr "Po włączeniu można opuścić odtwarzacz filmów przyciskiem EXIT."
