@@ -1421,6 +1421,9 @@ msgstr "AutoTimery"
 msgid "Automatic"
 msgstr "Automatyczny"
 
+msgid "Automatic Language"
+msgstr "Automatyczny wybór języka"
+
 msgid "Automatic Scan"
 msgstr "Automatyczne skanowanie"
 
@@ -1937,6 +1940,9 @@ msgstr "Ustawienia listy kanałów"
 
 msgid "Channel Name"
 msgstr "Nazwa kanału"
+
+msgid "Channel Selection"
+msgstr "Wybór kanału"
 
 msgid "Channel down"
 msgstr "Kanał -"
@@ -4098,6 +4104,9 @@ msgstr "Nie udało się zapisać /tmp/positionersetup.log: "
 msgid "Failed..."
 msgstr "Nie udało się..."
 
+msgid "Fallback Tuner Setup"
+msgstr "Konfiguracja głowicy zapasowej"
+
 msgid "Fallback address type"
 msgstr "Typ adresu zwrotnego"
 
@@ -5003,6 +5012,9 @@ msgstr "Monitorowanie podsystemu jądra Linuksa"
 
 msgid "Input"
 msgstr "Wejście"
+
+msgid "Input Devices"
+msgstr "Urządzenia wejścia"
 
 msgid "Input Stream ID"
 msgstr "ID strumienia wejśc."
@@ -10976,6 +10988,9 @@ msgstr "Głowica "
 msgid "Tuner :"
 msgstr "Głowica:"
 
+msgid "Tuner Setup"
+msgstr "Konfiguracja głowicy"
+
 msgid "Tuner configuration"
 msgstr "Konfiguracja głowicy"
 
@@ -11431,6 +11446,9 @@ msgstr "Bardzo krótkie nazwy plików"
 
 msgid "Very very short filenames - Warning"
 msgstr "Uwaga - bardzo krótkie nazwy plików"
+
+msgid "Video & Audio Settings"
+msgstr "Ustawienia obrazu i dźwięku"
 
 msgid "Video Enhancement Settings"
 msgstr "Korekcja obrazu"
