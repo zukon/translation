@@ -4844,6 +4844,13 @@ msgid "If the text is too long to be displayed on the front panel, it will be re
 msgstr "Jeśli tekst jest zbyt długi, aby był wyświetlany na przednim panelu, zostanie powtórzony (kilka razy):"
 
 msgid ""
+"If you can see this, something is wrong with\n"
+"your scart connection. Press OK to return."
+msgstr ""
+"Jeśli to widzisz, coś jest nie tak\n"
+"z połączeniem scart. Naciśnij OK, aby wrócić."
+
+msgid ""
 "If you want to connect your %s %s to the Internet, this wizard will guide you through the basic network setup of your %s %s.\n"
 "\n"
 "Please select the network interface that you want to use for your internet connection.\n"
