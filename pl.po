@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2-HYPERION\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-01-02 22:01+0100\n"
+"PO-Revision-Date: 2021-01-04 22:32+0100\n"
 "Last-Translator: ami68 <http://pkteam.pl>\n"
 "Language-Team: PKTeam\n"
 "Language: pl\n"
@@ -1013,6 +1013,18 @@ msgstr "Album"
 msgid "Alias"
 msgstr "Pseudonim"
 
+msgid "Alignment of events"
+msgstr "Dopasowanie wydarzeń"
+
+msgid "Alignment of service names"
+msgstr "Wyrównanie nazw kanałów"
+
+msgid "Alignment of service numbers"
+msgstr "Wyrównanie numerów kanałów"
+
+msgid "Alignment of timeline date"
+msgstr "Wyrównanie daty na osi czasu"
+
 msgid "All"
 msgstr "Wszystkie"
 
@@ -1612,6 +1624,12 @@ msgstr "Blok. red. szumów"
 msgid "Blue"
 msgstr "Niebieski"
 
+msgid "Blue button (long)"
+msgstr "Niebieski przycisk (długo)"
+
+msgid "Blue button (short)"
+msgstr "Niebieski przycisk (krótko)"
+
 msgid "Blue long"
 msgstr "Długo niebieski"
 
@@ -1870,6 +1888,12 @@ msgstr "Kaskada PiP"
 msgid "Center DVB subtitles"
 msgstr "Wyśrodkuj napisy DVB"
 
+msgid "Ch- button"
+msgstr "Przycisk kanału-"
+
+msgid "Ch+ button"
+msgstr "Przycisk kanału+"
+
 msgid "Change PIN"
 msgstr "Zmień PIN"
 
@@ -2091,6 +2115,9 @@ msgstr "Wybierz nazwę pliku, który przechowuje EPG gdy %s %s jest wyłączony.
 msgid "Choose time interval to which the graphics will be rounded off."
 msgstr "Wybierz przedział czasu, w którym grafika zostanie zaokrąglona."
 
+msgid "Choose what channel to select when the EPG opens."
+msgstr "Wybierz kanał, który chcesz wybrać po otwarciu EPG."
+
 msgid "Choose what you want the '0' button to do when PIP is active."
 msgstr "Wybierz akcję naciśnięcia przycisku \"0\", kiedy PiP jest aktywny."
 
@@ -2288,6 +2315,18 @@ msgstr "Tryb konfiguracji: %s"
 
 msgid "Configuration..."
 msgstr "Konfiguracja..."
+
+msgid "Configure alignment of service events."
+msgstr "Skonfiguruj wyrównanie zdarzeń kanałów."
+
+msgid "Configure alignment of the service names."
+msgstr "Skonfiguruj wyrównanie nazw kanałów."
+
+msgid "Configure alignment of the service numbers."
+msgstr "Skonfiguruj wyrównanie numerów kanałów."
+
+msgid "Configure alignment of the timeline date."
+msgstr "Skonfiguruj wyrównanie daty na osi czasu."
 
 msgid "Configure an additional delay to improve external subtitle synchronisation."
 msgstr "Skonfiguruj dodatkowe opóźnienie, aby poprawić synchronizację napisów zewnętrznych."
@@ -3545,6 +3584,12 @@ msgstr "Sprawdź pamięć podręczną EPG"
 msgid "EPG Search"
 msgstr "Szukaj EPG"
 
+msgid "EPG button (long)"
+msgstr "EPG przycisk (długo)"
+
+msgid "EPG button (short)"
+msgstr "EPG przycisk (krótko)"
+
 msgid "EPG filename"
 msgstr "Nazwa pliku EPG"
 
@@ -3731,6 +3776,9 @@ msgstr "Włącz detekcję konfliktów timera"
 msgid "Enable to display all true/false, yes/no, on/off and enable/disable set up options as a graphical switch."
 msgstr "Włącza wyświetlanie wszystkich prawda/fałsz, tak/nie, włącz/wyłącz w ustawieniach jako przełącznik graficzny."
 
+msgid "Enable to highlight events that are currently in progress."
+msgstr "Włącz, aby wyróżnić bieżące wydarzenia."
+
 msgid "Enable unlinked bouquets"
 msgstr "Włącz niedopisane bukiety"
 
@@ -3802,6 +3850,9 @@ msgstr "Wprowadź stały kod PIN"
 
 msgid "Enter pin code"
 msgstr "Wprowadź kod PIN"
+
+msgid "Enter service number"
+msgstr "Wprowadź numer kanału"
 
 msgid "Enter the IP address of the receiver to use for fallback tuners."
 msgstr "Wprowadź adres IP odbiornika, który będzie używany przez głowice zapasowe."
@@ -4474,6 +4525,12 @@ msgstr "Grecki"
 msgid "Green"
 msgstr "Zielony"
 
+msgid "Green button (long)"
+msgstr "Zielony przycisk (długo)"
+
+msgid "Green button (short)"
+msgstr "Zielony przycisk (krótko)"
+
 msgid "Green long"
 msgstr "Zielony - długie naciśnięcie"
 
@@ -4660,6 +4717,9 @@ msgstr "Wysokość:"
 msgid "High bitrate support"
 msgstr "Obsługa wysokiego bitrate"
 
+msgid "Highlight current events"
+msgstr "Wyróżnij bieżące wydarzenia"
+
 msgid "History"
 msgstr "Historia"
 
@@ -4780,6 +4840,9 @@ msgstr "Jeśli jest włączona, odbiornik będzie próbował dopasować rozdziel
 msgid "If enabled the video will always be de-interlaced."
 msgstr "Jeśli włączony, film zawsze będzie z przeplotem."
 
+msgid "If set to 'Standard' number buttons page up/down/left/right."
+msgstr "Jeśli ustawiony jest na \"Standardowy\", to przyciski numeryczne działają jak strona w górę/dół/lewo/prawo."
+
 msgid "If set to 'yes' channels without EPG will not be shown."
 msgstr "Jeśli ustawione na \"tak\", kanały bez EPG nie będą wyświetlane."
 
@@ -4789,8 +4852,11 @@ msgstr "Jeśli ustawione na \"tak\", to pokaże pakiety \"PO\" w przeglądarce."
 msgid "If set to 'yes' it will show the 'SRC' packages in browser."
 msgstr "Jeśli ustawione na \"tak\", to pokaże pakiety \"SRC\" w przeglądarce."
 
+msgid "If set to 'yes' shows a small TV screen in the EPG."
+msgstr "Jeśli ustawione na \"tak\", pokazuje mały ekran TV w EPG."
+
 msgid "If set to 'yes' shows a small TV-screen in the EPG."
-msgstr "Jeśli ustawione na \"tak\", pokazuje małe okno TV w EPG."
+msgstr "Jeśli ustawione na \"tak\", pokazuje mały ekran TV w EPG."
 
 msgid "If set to 'yes' the EPG will always open at the first channel of bouquet. If set to 'no' the EPG will open on the current channel."
 msgstr "Jeśli ustawione na \"tak\", EPG zawsze się otworzy na pierwszym kanale z bukietu. Jeśli ustawione na \"nie\", EPG otworzy się na aktualnym kanale."
@@ -4941,10 +5007,10 @@ msgid "Info (EPG) Long"
 msgstr "Info (EPG) - długie naciśnięcie"
 
 msgid "Info button (long)"
-msgstr "Info przycisk (długi)"
+msgstr "Przycisk Info (długo)"
 
 msgid "Info button (short)"
-msgstr "Info przycisk (krótki)"
+msgstr "Przycisk Info (krótko)"
 
 msgid "Info icon width"
 msgstr "Szerokość info ikony"
@@ -6409,6 +6475,9 @@ msgstr "Teraz użyj ustawień kontrastu, aby ustawić jak największą jasność
 msgid "Number"
 msgstr "Numer"
 
+msgid "Number buttons mode"
+msgstr "Tryb przycisków numerycznych"
+
 msgid "Number of channels shown in channel selection list"
 msgstr "Wyświetl numer kanału w liście"
 
@@ -6431,10 +6500,10 @@ msgid "OK"
 msgstr "OK"
 
 msgid "OK button (long)"
-msgstr "OK przycisk (długo)"
+msgstr "Przycisk OK (długo)"
 
 msgid "OK button (short)"
-msgstr "OK przycisk (krótko)"
+msgstr "Przycisk OK (krótko)"
 
 msgid "OK long"
 msgstr "OK długie naciśnięcie"
@@ -6817,11 +6886,20 @@ msgstr "Picon"
 msgid "Picon and Service Name"
 msgstr "Picon i nazwa kanału"
 
+msgid "Picon and Service Number"
+msgstr "Picon i numer kanału"
+
 msgid "Picon width"
 msgstr "Szerokość picony"
 
+msgid "Picon, Service Number and Service Name"
+msgstr "Picon, numer i nazwa kanału"
+
 msgid "Picture Player"
 msgstr "Przeglądarka zdjęć"
+
+msgid "Picture in graphic"
+msgstr "PiG"
 
 msgid "Picture in graphics"
 msgstr "PiG"
@@ -7202,6 +7280,9 @@ msgstr "Konfiguracja pozycji"
 msgid "Position of finished Timers in the Timer list"
 msgstr "Lista wykonanych zadań na liście timerów"
 
+msgid "Position of recording icons"
+msgstr "Położenie ikon nagrywania"
+
 msgid "Position setup"
 msgstr "Ustawienia OSD"
 
@@ -7364,6 +7445,9 @@ msgstr "Poprzedni"
 
 msgid "Primary DNS"
 msgstr "Pierwszy DNS"
+
+msgid "Primetime"
+msgstr "Najlepszy czas"
 
 msgid "Primetime hour"
 msgstr "Najlepsza godzina"
@@ -7560,6 +7644,12 @@ msgstr "Wykonać nową numerację LCN?"
 msgid "Rec"
 msgstr "Nagraj"
 
+msgid "Rec button (long)"
+msgstr "Przycisk nagrywania (długo)"
+
+msgid "Rec button (short)"
+msgstr "Przycisk nagrywania (krótko)"
+
 msgid "Reception Settings"
 msgstr "Ustawienia odbioru"
 
@@ -7622,6 +7712,12 @@ msgstr "Nagrania"
 
 msgid "Red"
 msgstr "Czerwony"
+
+msgid "Red button (long)"
+msgstr "Czerwony przycisk (długo)"
+
+msgid "Red button (short)"
+msgstr "Czerwony przycisk (krótko)"
 
 msgid "Red button..."
 msgstr "Czerwony przycisk..."
@@ -8296,6 +8392,9 @@ msgstr "Wybierz kanał z którego nagrywać"
 msgid "Select copy destination for:"
 msgstr "Wybierz miejsce docelowe kopiowania dla:"
 
+msgid "Select current service"
+msgstr "Wybierz bieżący kanał"
+
 msgid "Select default EPG type..."
 msgstr "Wybierz domyślny typ EPG..."
 
@@ -8307,6 +8406,9 @@ msgstr "Wybierz pliki do wykonania kopii zapasowej."
 
 msgid "Select files/folders to backup"
 msgstr "Wybierz pliki/foldery do wykonania kopii zapasowej"
+
+msgid "Select first service in bouquet"
+msgstr "Wybierz pierwszy kanał w bukiecie"
 
 msgid "Select folders"
 msgstr "Wybierz foldery"
@@ -8325,6 +8427,9 @@ msgstr "Wybierz urządzenie wejściowe."
 
 msgid "Select interface"
 msgstr "Wybierz interfejs"
+
+msgid "Select last browsed service"
+msgstr "Wybierz ostatnio oglądany kanał"
 
 msgid "Select location"
 msgstr "Wybierz lokalizację"
@@ -8464,6 +8569,15 @@ msgstr "Informacje o kanale"
 msgid "Service Name"
 msgstr "Nazwa kanału"
 
+msgid "Service Number and Picon"
+msgstr "Numer kanału i picon"
+
+msgid "Service Number and Service Name"
+msgstr "Numer i nazwa kanału"
+
+msgid "Service Number, Picon and Service Name"
+msgstr "Numer kanału, picon i nazwa kanału"
+
 msgid "Service Title mode"
 msgstr "Obsługa trybu kanału"
 
@@ -8599,11 +8713,17 @@ msgstr "Ustaw domyślną metodę sortowania."
 msgid "Set the delay time between repeated loops, this uses a software render in some skins."
 msgstr "Ustaw czas opóźnienia pomiędzy pętlami, wykorzystuje to oprogramowanie dostarczone przez niektóre skórki."
 
+msgid "Set the desired primetime."
+msgstr "Ustaw żądany najlepszy czas."
+
 msgid "Set the jump-size of the seekbar."
 msgstr "Ustaw rozmiar skoku paska przeszukiwania."
 
 msgid "Set the name the recording will get."
 msgstr "Ustaw nazwę nagrania."
+
+msgid "Set the position of the recording icons"
+msgstr "Ustaw położenie ikon nagrywania."
 
 msgid "Set the scrolling speed of text on the front display."
 msgstr "Ustaw szybkość przewijania tekstu na przednim wyświetlaczu."
@@ -9606,10 +9726,10 @@ msgid "Sports"
 msgstr "Sport"
 
 msgid "Standard"
-msgstr "Standard"
+msgstr "Standardowy"
 
 msgid "Standard (always)"
-msgstr "standard (zawsze)"
+msgstr "standardowy (zawsze)"
 
 msgid "Standby"
 msgstr "Czuwanie"
@@ -10136,7 +10256,7 @@ msgid "Testscreens"
 msgstr "Obraz testowy"
 
 msgid "Text"
-msgstr "Text"
+msgstr "Tekst"
 
 msgid "Text color"
 msgstr "Kolor tekstu"
@@ -11300,10 +11420,10 @@ msgid "Use slim screen"
 msgstr "Użyj wąskiego ekranu"
 
 msgid "Use the LEFT/RIGHT buttons on your remote to adjust the height of the user interface. LEFT button decreases the size, RIGHT increases the size."
-msgstr "Użyj przycisków PRAWO/LEWO na pilocie, aby dostosować wysokość interfejsu użytkownika. Przycisk LEWO zmniejsza rozmiar, PRAWO zwiększa rozmiar."
+msgstr "Użyj przycisków LEWO/PRAWO na pilocie, aby dostosować wysokość interfejsu użytkownika. Przycisk LEWO zmniejsza rozmiar, PRAWO zwiększa rozmiar."
 
 msgid "Use the LEFT/RIGHT buttons on your remote to adjust the width of the user interface. LEFT button decreases the size, RIGHT increases the size."
-msgstr "Użyj przycisków PRAWO/LEWO na pilocie, aby dostosować szerokość interfejsu użytkownika. Przycisk LEWO zmniejsza rozmiar, PRAWO zwiększa rozmiar."
+msgstr "Użyj przycisków LEWO/PRAWO na pilocie, aby dostosować szerokość interfejsu użytkownika. Przycisk LEWO zmniejsza rozmiar, PRAWO zwiększa rozmiar."
 
 msgid "Use the LEFT/RIGHT buttons on your remote to move the user interface left/right."
 msgstr "Użyj przycisków LEWO/PRAWO na pilocie, aby przesunąć interfejs użytkownika w lewo/prawo."
@@ -12161,6 +12281,12 @@ msgstr "Żółty"
 msgid "Yellow DVB subtitles"
 msgstr "Żółte napisy DVB"
 
+msgid "Yellow button (long)"
+msgstr "Żółty przycisk (długo)"
+
+msgid "Yellow button (short)"
+msgstr "Żółty przycisk (krótko)"
+
 msgid "Yellow long"
 msgstr "Żółty - długie naciśnięcie"
 
@@ -12698,6 +12824,9 @@ msgstr "czarna lista"
 msgid "blue"
 msgstr "niebieski"
 
+msgid "bottom"
+msgstr "dół"
+
 msgid "broadcasting/press"
 msgstr "relacja"
 
@@ -12727,6 +12856,12 @@ msgstr "wyszukiwanie z uwzględnieniem wielkości liter"
 
 msgid "center"
 msgstr "środek"
+
+msgid "centered"
+msgstr "wyśrodkowany"
+
+msgid "centered, wrapped"
+msgstr "wyśrodkowany, zawinięty"
 
 msgid "chapters"
 msgstr "rozdziały"
@@ -13086,6 +13221,9 @@ msgstr "wysokość"
 msgid "help..."
 msgstr "pomoc..."
 
+msgid "hide"
+msgstr "ukryć"
+
 msgid "hops:"
 msgstr "hop'y:"
 
@@ -13143,6 +13281,9 @@ msgstr "języki"
 msgid "left"
 msgstr "lewo"
 
+msgid "left, wrapped"
+msgstr "lewo, zawinięty"
+
 msgid "leisure hobbies (general)"
 msgstr "rozrywka/hobby"
 
@@ -13196,6 +13337,9 @@ msgstr "menu"
 
 msgid "menu_path_compressed"
 msgstr "menu ścieżki kompresji"
+
+msgid "middle"
+msgstr "środek"
 
 msgid "mins"
 msgstr "min"
@@ -13506,6 +13650,9 @@ msgstr "cofnij do poprzedniego rozdziału"
 msgid "right"
 msgstr "prawo"
 
+msgid "right, wrapped"
+msgstr "prawo, zawinięty"
+
 msgid "rock/pop"
 msgstr "rock/pop"
 
@@ -13684,7 +13831,7 @@ msgid "ssw"
 msgstr "ssw"
 
 msgid "standard"
-msgstr "standardowe"
+msgstr "standardowy"
 
 msgid "start cut here"
 msgstr "rozpocznij cięcie tutaj"
