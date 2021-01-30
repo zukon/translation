@@ -2103,14 +2103,17 @@ msgstr "Wybierz pomiędzy dziennym, tygodniowym, dni powszednie lub określone p
 msgid "Choose target folder"
 msgstr "Wybierz folder docelowy"
 
+msgid "Choose the layout. Single channel, Graphics Grid EPG or Text Grid EPG."
+msgstr "Wybierz układ. Pojedynczy kanał, Graphics Grid EPG lub Text Grid EPG."
+
 msgid "Choose the location for crash and debug logs."
 msgstr "Wybierz lokalizację dla crashlogów i logów debugowania."
 
 msgid "Choose the location where the EPG data will be stored when the %s %s is shut down. The location must be available at boot time."
-msgstr "Wybierz lokalizację, w której dane EPG zostaną zapisane gdy %s %s jest wyłączony. Lokalizacja musi być dostępny w czasie rozruchu."
+msgstr "Wybierz lokalizację, w której dane EPG będą zapisane po wyłaczeniu %s %s. Lokalizacja musi być dostępna podczas uruchamiania."
 
 msgid "Choose the name of the file that holds the EPG data when the %s %s is shut down. This can be handy to differentiate between several boxes."
-msgstr "Wybierz nazwę pliku, który przechowuje EPG gdy %s %s jest wyłączony. Może to być przydatne do rozróżniania kilku plików EPG."
+msgstr "Wybierz nazwę pliku, który przechowuje dane EPG, gdy %s %s jest wyłączony. Może to być przydatne do rozróżnienia kilku dekoderów."
 
 msgid "Choose time interval to which the graphics will be rounded off."
 msgstr "Wybierz przedział czasu, w którym grafika zostanie zaokrąglona."
@@ -4948,6 +4951,9 @@ msgstr "Natychmiastowe wyłączenie"
 
 msgid "Import from EPG"
 msgstr "Import z EPG"
+
+msgid "In live view wait this many seconds after a numeric key press before assuming the required channel number has been entered. Default: 5 seconds. Setting zero will require confirmation with 'OK'. "
+msgstr "W trybie oglądania na żywo odczekaj tyle sekund po naciśnięciu klawiszy numerycznych, zanim przyjmie się, że wprowadzono żądany numer kanału. Ustawienie zera będzie wymagało potwierdzenia przyciskiem „OK”."
 
 msgid "In progress"
 msgstr "W toku"
@@ -12643,6 +12649,9 @@ msgstr "Przełącz na PiP"
 
 msgid "Zap focus to main screen"
 msgstr "Przełącz na główny ekran"
+
+msgid "Zap key delay for channel number input"
+msgstr "Opóźnienie czasowe po wprowadzeniu numeru kanału z klawiatury pilota"
 
 msgid "Zap mode"
 msgstr "Przełącz na tryb"
